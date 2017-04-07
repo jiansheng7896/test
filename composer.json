@@ -1,0 +1,11 @@
+{
+    "name": "chunlei/math",
+    "description": "test",
+    "authors": [
+        {
+            "name": "lichunlei",
+            "email": "nosjoy@163.com"
+        }
+    ],
+    "require": {}
+}
