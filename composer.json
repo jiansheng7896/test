@@ -7,5 +7,10 @@
             "email": "nosjoy@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Chunlei\\Math\\": "src/Math/"
+        }
+    },
     "require": {}
 }
