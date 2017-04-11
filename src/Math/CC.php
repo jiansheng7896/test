@@ -1,7 +1,7 @@
 <?php
 namespace Chunlei\Math;
 
-class BB {
+class CC {
 
     public function run ($a, $b) {
         return $a + $b;
