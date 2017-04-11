@@ -4,7 +4,7 @@ namespace Chunlei\Math;
 /*
 *1111111111
 */
-class BB {
+class CC {
 
     public function run ($a, $b) {
         return $a + $b;
